@@ -25,8 +25,8 @@ I used the following online password strength checker:
 *(You can choose another tool if you prefer. Just replace the link and name.)*
 
 Below is a screenshot of the evaluation results:
-<img width="603" height="820" alt="Result" src="https://github.com/user-attachments/assets/4e00282b-8644-4304-bc68-edd795f04369" />
 
+<img width="603" height="820" alt="Result" src="https://github.com/user-attachments/assets/4e00282b-8644-4304-bc68-edd795f04369" />
 
 ---
 
